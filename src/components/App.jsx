@@ -5,7 +5,6 @@ import Note from "./Note";
 import CreateArea from "./CreateArea";
 import axios from "axios";
 
-// Delete "https://keeper-api-azna.onrender.com"
 const backendServerURL = "https://keeper-api-azna.onrender.com" || "http://localhost:5000";
 
 function App() {
