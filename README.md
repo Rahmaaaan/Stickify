@@ -45,7 +45,7 @@ Make sure you have the following requirements met:
 
     - Set up your MongoDB account and create Collections in the Cluster section.
     - Obtain the unique 'USER' and 'PASS' for that cluster and insert them into `index.js` on lines 10 and 11.
-    - In `App.jsx`, on line 9, remove "https://keeper-api-azna.onrender.com" and replace it with "http://localhost:5000".
+    - In `App.jsx`, on line 9, remove `https://keeper-api-azna.onrender.com` and replace it with `http://localhost:5000`.
 
 5. Start the Backend Server
 
